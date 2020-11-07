@@ -1,4 +1,4 @@
-# Algoritm-semulator
+# Algoritm-simulator
 
 This is a Java based project which shows various sorting algorithms working principle step by step.
 
